@@ -1,8 +1,8 @@
 # LA6-GUI
-<p>Carillo, Samuel B.
-BSCS - 2 F2
-ACTIVITY NUMBERS:
-#2 - Pizza Order System
-#1 - Number Counter
-#9 - Geography Quiz
+<p><b>Carillo, Samuel B.</b>
+<br>BSCS - 2<br> Section: F2 <br>
+<b>ACTIVITY NUMBERS:</b><br>
+#2 - Pizza Order System <br>
+#1 - Number Counter<br>
+#9 - Geography Quiz <br>
 </p>
